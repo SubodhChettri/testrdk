@@ -1,0 +1,12 @@
+{
+  "Version": "1.0",
+  "Parameters": {
+    "RuleName": "IAM_USERNAME_POLICY",
+    "SourceRuntime": "python3.6",
+    "CodeKey": "IAM_USERNAME_POLICY.zip",
+    "InputParameters": "{}",
+    "OptionalParameters": "{}",
+    "SourceEvents": "AWS::IAM::User"
+  },
+  "Tags": "[]"
+}

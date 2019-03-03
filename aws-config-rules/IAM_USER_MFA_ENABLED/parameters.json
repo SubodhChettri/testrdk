@@ -1,0 +1,10 @@
+{
+  "Parameters": {
+    "RuleName": "IAM_USER_MFA_ENABLED",
+    "SourceRuntime": "python3.6",
+    "CodeKey": "IAM_USER_MFA_ENABLED.zip",
+    "InputParameters": "{}",
+    "OptionalParameters": "{\"WhitelistedUserList\": \"\", \"NotUsedTimeOutInDays\": \"\", \"NewUserCooldownInDays\": \"\"}",
+    "SourcePeriodic": "TwentyFour_Hours"
+  }
+}

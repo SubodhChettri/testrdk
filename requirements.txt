@@ -1,0 +1,5 @@
+awscli==1.16.116
+boto3==1.9.106
+credstash==1.15.0
+python-dateutil==2.8.0
+rdk==0.4.2
