@@ -25,7 +25,7 @@ TODO: Write the code here
 
 ## Task List
 - [x] Dockerfile to write and test code
-- [X] Makefile 
+- [x] Makefile 
 - [ ] Athena Create table SQL scripts to create viz Tableau
 - [ ] Optimize ACL for the service account to deploy AWS Config
 
