@@ -1,6 +1,6 @@
-# Test RDK Tools
+# Security Compliance As Code On AWS
 
-This is a sample project to test features of RDK python package which make complaince as code possible for aws resources. I have leveraged code from community-based source of custom AWS Config Rules 
+This is a sample project to test features of RDK python package which make compliance as code possible for aws resources. I have leveraged code from community-based source of custom AWS Config Rules 
 
 ## Make Help
 
@@ -13,7 +13,7 @@ make help
 make image
 ```
 
-## Run Devlopment Container
+## Run Development Container
 ```bash
 make devenv
 ```
