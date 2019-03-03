@@ -18,7 +18,7 @@ make image
 make devenv
 ```
 
-## build deployment
+## Build deployment
 ```bash
 TODO: Write the code here
 ```
